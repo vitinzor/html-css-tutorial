@@ -1,0 +1,27 @@
+html, body, h1 {
+    margin: 0; padding: 0;
+}
+
+header{
+    background: rgb(236, 132, 132);
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    height: 45px;
+    color: rgb(0, 0, 0);
+}
+
+header h1 {
+    color: rgb(0, 0, 0);
+    font-size: 45px;
+}
+
+img {
+    width: 100px;
+    height: 40px;
+    margin: 2px 3px 3px 2px;
+}
+
+header span{
+    margin: 0 20px 0 auto;
+}
